@@ -6,10 +6,6 @@ Download Ganache for testing contracts on local blockchain: http://truffleframew
 
 Download MetaMask: https://metamask.io/
 
-Steps to compile:
-1. Open Terminal to home directory
-2. Run: truffle compile
-
 Steps to run tests:
 1. Open Terminal to home directory
 2. Run: truffle test
@@ -22,8 +18,6 @@ Precursors:
 
 Steps to run:
 1. Open Terminal to home directory
+2. Run: truffle compile
+3. Run: truffle migrate
 2. Run: npm run dev
-
-Steps to migrate new/updated contract:
-1. Open Terminal to home directory
-2. truffle migrate
