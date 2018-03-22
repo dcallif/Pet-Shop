@@ -1,3 +1,5 @@
+![Pet Emporium Front Page](FrontPage.png?raw=true)
+
 Download Node: brew install npm
 
 Download Truffle: npm install -g truffle
